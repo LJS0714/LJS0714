@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23C3FFDC&title_bg=%2300A276&icon=googlefit.svg&icon_color=%23C3FFDC&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-00A276?logo=instagram&logoColor=white&link={https://www.instagram.com/jisunnyday7/})]({https://www.instagram.com/jisunnyday7/})
-[![Blog Badge](https://img.shields.io/badge/-Blog-00A276?logo=naver&logoColor=white&link={https://blog.naver.com/ejisunny})]({https://blog.naver.com/ejisunny})
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-00A276?logo=instagram&logoColor=white&link=https://www.instagram.com/jisunnyday7/)](https://www.instagram.com/jisunnyday7/)
+[![Blog Badge](https://img.shields.io/badge/-Blog-00A276?logo=naver&logoColor=white&link=https://blog.naver.com/ejisunny)](https://blog.naver.com/ejisunny)
 
 [![LJS0714's github stats](https://github-readme-stats.vercel.app/api?username=LJS0714&count_private=true&custom_title=Jisun's-Github-Stats&bg_color=40,CCFFCF,CFCCFF&title_color=3E7E4A&text_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LJS0714)](https://github.com/anuraghazra/github-readme-stats)
