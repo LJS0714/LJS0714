@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23C3FFDC&title_bg=%2300A276&icon=googlefit.svg&icon_color=%23C3FFDC&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-1877f2?logo=instagram&logoColor=white&link={https://www.instagram.com/jisunnyday7/})]({https://www.instagram.com/jisunnyday7/})
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-1877f2?logo=#00A276&logoColor=white&link={https://www.instagram.com/jisunnyday7/})]({https://www.instagram.com/jisunnyday7/})
