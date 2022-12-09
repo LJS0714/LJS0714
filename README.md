@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-00A276?logo=instagram&logoColor=white&link={https://www.instagram.com/jisunnyday7/})]({https://www.instagram.com/jisunnyday7/})
 [![Blog Badge](https://img.shields.io/badge/-Blog-00A276?logo=naver&logoColor=white&link={https://blog.naver.com/ejisunny})]({https://blog.naver.com/ejisunny})
 
-[![LJS0714's github stats](https://github-readme-stats.vercel.app/api?username=LJS0714&count_private=true&custom_title=FFFFFF&bg_color=60,CCFFCF,CFCCFF&title_color=FFFFFF&text_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
+[![LJS0714's github stats](https://github-readme-stats.vercel.app/api?username=LJS0714&count_private=true&custom_title=Lee Jisun's Github Stats&bg_color=60,CCFFCF,CFCCFF&title_color=FFFFFF&text_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
