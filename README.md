@@ -19,3 +19,4 @@ Here are some ideas to get you started:
 [![Blog Badge](https://img.shields.io/badge/-Blog-00A276?logo=naver&logoColor=white&link={https://blog.naver.com/ejisunny})]({https://blog.naver.com/ejisunny})
 
 [![LJS0714's github stats](https://github-readme-stats.vercel.app/api?username=LJS0714&count_private=true&custom_title=Jisun's-Github-Stats&bg_color=40,CCFFCF,CFCCFF&title_color=3E7E4A&text_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LJS0714)](https://github.com/anuraghazra/github-readme-stats)
